@@ -23,14 +23,18 @@ footer {
     color: aliceblue;
   }
 .middle a {
-    background-color: #000;
+    background-color: #A26769;
 }
 .object a {
-    background-color: 
+    background-color: #D9CFC1
 }
 .hobby a{
-    background-color:
+    background-color: #F5F0EF
 }
-
-    
+.course a{
+    background-color: #E4DBDB
+}
+.prog a{
+    background-color: #4D3C3C
+}    
  
