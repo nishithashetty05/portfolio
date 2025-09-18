@@ -1,0 +1,25 @@
+header {
+    background-color: #e4dbdb;
+    color: rgb(9, 23, 19);
+    text-align: center;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+img{
+    height: 200px;
+}
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #A26769;
+    color: rgb(252, 252, 252);
+  }
+.social-link a {
+    color: aliceblue;
+  }
+.middle a {
+    background-color: #000;
+}
+ 
