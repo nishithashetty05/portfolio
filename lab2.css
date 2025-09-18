@@ -12,7 +12,6 @@ img{
 }
 footer {
     text-align: center;
-    display: flex;
     padding: 1rem;
     background-color: #A26769;
     color: rgb(252, 252, 252);
