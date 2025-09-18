@@ -12,6 +12,7 @@ img{
 }
 footer {
     text-align: center;
+    list-style-type: none;
     padding: 1rem;
     background-color: #A26769;
     color: rgb(252, 252, 252);
