@@ -12,11 +12,15 @@ img{
 }
 footer {
     text-align: center;
-    padding: 1rem;
+    padding: 15px;
     background-color: #A26769;
     color: rgb(252, 252, 252);
   }
-.social-link a {
+footer .social-link {
+    margin-bottom:8px;
+}
+footer .social-link a {
+    margin: 0 12px;
     color: aliceblue;
   }
 .middle a {
