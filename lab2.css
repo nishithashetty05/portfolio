@@ -21,6 +21,14 @@ footer {
     margin: 0 12px;
     color: aliceblue;
   }
+.social-link ul{
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
 .middle a {
     background-color: #000;
 }
